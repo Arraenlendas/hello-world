@@ -1,2 +1,2 @@
 # hello-world
-School resp
+a bit about yourself
